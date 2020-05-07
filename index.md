@@ -1,12 +1,40 @@
-## Welcome to GitHub Pages
+# Quinton Coetzee
 
-You can use the [editor on GitHub](https://github.com/QuintonCoetzee/QuintonCoetzee.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a third year student, studying B.IT at the University of Pretoria. I have an incredible passion for Computer Science as well as photography and I take great pride in the work that I do. I have an innate drive and apply myself fully to all the work that I do. I have also throughout my life developed good soft skills and I am a capable leader.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Interests
+1. Software Engineering
+2. Photography
+3. Graphic Design
+4. Nutrition and Health
 
-### Markdown
+## Skills
+1. Coding in most major languages
+   
+2. Leadership
+3. Diplomacy
+4. Conflict Management
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
++ Matriculated (2017) - Hoërskool Garsfontein
++ B.IT - University of Pretoria (Set to graduate with Honors in 2021)
+
+## Work Experience 
++ Teaching Assistant COS110
+
+## Accolades
++ Member of the Golden Key Honour Society
++ Top achiever in B.IT for first year 
+
+## Attitudes
++ Handle conflict as soon as it arises openly and honestly.
++ Respect all team members and trust in their abilities.
++ Work hard from the start as to avoid stress in the future.
+
+## Links
+https://github.com/QuintonCoetzee
+https://www.linkedin.com/in/quinton-coetzee-3656a01a3/
+https://www.instagram.com/pure.instinct/
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +53,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QuintonCoetzee/QuintonCoetzee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
