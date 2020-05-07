@@ -10,7 +10,6 @@ I am a third year student, studying B.IT at the University of Pretoria. I have a
 
 ## Skills
 1. Coding in most major languages
-   
 2. Leadership
 3. Diplomacy
 4. Conflict Management
@@ -32,9 +31,9 @@ I am a third year student, studying B.IT at the University of Pretoria. I have a
 + Work hard from the start as to avoid stress in the future.
 
 ## Links
-https://github.com/QuintonCoetzee
-https://www.linkedin.com/in/quinton-coetzee-3656a01a3/
-https://www.instagram.com/pure.instinct/
++ [Github](https://github.com/QuintonCoetzee)
++ [Github](https://www.linkedin.com/in/quinton-coetzee-3656a01a3/)
++ [Github](https://www.instagram.com/pure.instinct/)
 
 ```markdown
 Syntax highlighted code block
