@@ -1,1 +1,0 @@
-# QuintonCoetzee.github.io
