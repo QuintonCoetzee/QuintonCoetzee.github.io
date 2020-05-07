@@ -9,7 +9,18 @@ I am a third year student, studying B.IT at the University of Pretoria. I have a
 4. Nutrition and Health
 
 ## Skills
-1. Coding in most major languages
+1. Coding in most major languages and Frameworks
+  + Java
+  + C++
+  + JavaScript
+  + Python
+  + HTML and CSS
+  + SQL
+  + PHP
+  + Dart
+  + Bootstrap
+  + NodeJS
+  + ReactJS
 2. Leadership
 3. Diplomacy
 4. Conflict Management
@@ -32,23 +43,5 @@ I am a third year student, studying B.IT at the University of Pretoria. I have a
 
 ## Links
 + [Github](https://github.com/QuintonCoetzee)
-+ [Github](https://www.linkedin.com/in/quinton-coetzee-3656a01a3/)
-+ [Github](https://www.instagram.com/pure.instinct/)
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
++ [LinkedIn](https://www.linkedin.com/in/quinton-coetzee-3656a01a3/)
++ [Photography Portfolio](https://www.instagram.com/pure.instinct/)
