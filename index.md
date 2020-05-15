@@ -4,7 +4,7 @@ I am a third year student, studying B.IT at the University of Pretoria. I have a
 ## Links
 + [Github](https://github.com/QuintonCoetzee)
 + [LinkedIn](https://www.linkedin.com/in/quinton-coetzee-3656a01a3/)
-+ [Photography Portfolio](https://www.instagram.com/pure.instinct/)
++ [Photography Portfolio](https://vsco.co/pureinsinct)
 
 ## Interests
 1. Software Engineering
