@@ -4,7 +4,7 @@ I am a third year student, studying B.IT at the University of Pretoria. I have a
 ## Links
 + [Github](https://github.com/QuintonCoetzee)
 + [LinkedIn](https://www.linkedin.com/in/quinton-coetzee-3656a01a3/)
-+ [Photography Portfolio](https://vsco.co/pureinsinct)
++ [Photography Portfolio](https://vsco.co/pureinstinct)
 
 ## Interests
 1. Software Engineering
@@ -40,12 +40,5 @@ I am a third year student, studying B.IT at the University of Pretoria. I have a
 + Member of the Golden Key Honour Society
 + Top achiever in B.IT for first year 
 
-## Attitudes
-+ Handle conflict as soon as it arises openly and honestly.
-+ Respect all team members and trust in their abilities.
-+ Work hard from the start as to avoid stress in the future.
-
-## Links
-+ [Github](https://github.com/QuintonCoetzee)
-+ [LinkedIn](https://www.linkedin.com/in/quinton-coetzee-3656a01a3/)
-+ [Photography Portfolio](https://www.instagram.com/pure.instinct/)
+## Image
+<div>Hello World!</div>
