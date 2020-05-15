@@ -39,6 +39,3 @@ I am a third year student, studying B.IT at the University of Pretoria. I have a
 ## Accolades
 + Member of the Golden Key Honour Society
 + Top achiever in B.IT for first year 
-
-## Image
-<img src="pfp.jpg"/>
