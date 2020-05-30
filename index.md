@@ -14,14 +14,18 @@ I am a third year student, studying B.IT at the University of Pretoria. I have a
 4. Nutrition and Health
 
 ## Skills
-1. Coding in most modern Languages and Frameworks
-| C++     | Java             | HTML 5 |
-|---------|------------------|--------|
-| CSS 3   | Javascript       | PHP    |
-| NodeJS  | 64 bit Assembler | Delphi |
-| PHP     | jQuery           | AJAX   |
-| React   | SQL              | Python |
-| Flutter | Dart             |
+1. Coding in most major languages and Frameworks
+  + Java
+  + C++
+  + JavaScript
+  + Python
+  + HTML and CSS
+  + SQL
+  + PHP
+  + Dart
+  + Bootstrap
+  + NodeJS
+  + ReactJS
 2. Leadership
 3. Diplomacy
 4. Conflict Management
