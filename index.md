@@ -1,3 +1,4 @@
+
 ## Introduction
 I am a third year student, studying B.IT at the University of Pretoria. I have an incredible passion for Computer Science as well as photography and I take great pride in the work that I do. I have an innate drive and apply myself fully to all the work that I do. I have also throughout my life developed good soft skills and I am a capable leader.
 
@@ -13,18 +14,14 @@ I am a third year student, studying B.IT at the University of Pretoria. I have a
 4. Nutrition and Health
 
 ## Skills
-1. Coding in most major languages and Frameworks
-  + Java
-  + C++
-  + JavaScript
-  + Python
-  + HTML and CSS
-  + SQL
-  + PHP
-  + Dart
-  + Bootstrap
-  + NodeJS
-  + ReactJS
+1. Coding in most modern Languages and Frameworks
+| C++     | Java             | HTML 5 |
+|---------|------------------|--------|
+| CSS 3   | Javascript       | PHP    |
+| NodeJS  | 64 bit Assembler | Delphi |
+| PHP     | jQuery           | AJAX   |
+| React   | SQL              | Python |
+| Flutter | Dart             |
 2. Leadership
 3. Diplomacy
 4. Conflict Management
