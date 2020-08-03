@@ -33,7 +33,7 @@
   </h5>
 </div>
 
-<h2 align="center">Links</h2>
+<h2 align="center">Interests</h2>
 <ol>
 <li> Software Engineering </li>
 <li> Photography </li> 
@@ -41,34 +41,45 @@
 <li> Nutrition and Health </li>
 </ol>
 
-## Skills
-1. Coding in most major languages and Frameworks
-  + Java
-  + C++
-  + JavaScript
-  + Python
-  + HTML and CSS
-  + SQL
-  + PHP
-  + Dart
-  + Bootstrap
-  + NodeJS
-  + ReactJS
-2. Leadership
-3. Diplomacy
-4. Conflict Management
+<h2 align="center">Skills</h2>
+<ol>
+<li>Coding in most major languages and Frameworks
+  <ul>
+    <li>Java</li>
+    <li>C++</li>
+    <li>Javascript</li>
+    <li>Python</li>
+    <li>HTML and CSS</li>
+    <li>SQL</li>
+    <li>PHP</li>
+    <li>Flutter and Dart</li>
+    <li>Bootstrap</li>
+    <li>NodeJS</li>
+    <li>ReactJS</li>
+  </ul>
+</li>
+<li>Leadership</li>
+<li>Diplomacy</li>
+<li>Conflict Management</li>
+</ol>
 
-## Education
-+ Matriculated (2017) - Hoërskool Garsfontein
-+ B.IT - University of Pretoria (Set to graduate with Honors in 2021)
+<h2 align="center">Education</h2>
+<ol>
+  <li>Matriculated (2017) - Hoërskool Garsfontein</li>
+  <li>B.IT - University of Pretoria (Set to graduate with Honors in 2021)</li>
+</ol>
 
-## Work Experience 
-+ Teaching Assistant COS110
+<h2 align="center">Work Experience</h2>
+<ol>
+  <li>Teaching Assistant COS110 - 2019</li>
+  <li>Tutor COS110 - 2020</li>
+</ol> 
 
-## Accolades
-+ Member of the Golden Key Honour Society
-+ Top achiever in B.IT for first year 
-
+<h2 align="center">Accolades</h2>
+<ol>
+  <li>Member of the Golden Key Honour Society</li>
+  <li>Top achiever in B.IT for first year </li>
+</ol>
   <script src="js/scripts.js"></script>
 </body>
 </html>
