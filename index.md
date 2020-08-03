@@ -1,8 +1,8 @@
 <html lang="en">
-head>
+<head>
 		<title>Quinton Coetzee</title>
 		<link rel="stylesheet" type="text/css" href="css/main.css">
-	</head>
+</head>
 
 
   <nav>
