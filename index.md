@@ -1,6 +1,8 @@
-
-## Introduction
-I am a third year student, studying B.IT at the University of Pretoria. I have an incredible passion for Computer Science as well as photography and I take great pride in the work that I do. I have an innate drive and apply myself fully to all the work that I do. I have also throughout my life developed good soft skills and I am a capable leader.
+<div align="center">
+:blush::newspaper::runner::apple:
+</div>
+<h1 align="center">Introdcution</h1>
+I am a third year student, studying BIT at the University of Pretoria. I have an incredible passion for Computer Science as well as photography and I take great pride in the work that I do. I have an innate drive and apply myself fully to all the work that I do. I have also throughout my life developed good soft skills and I am a capable leader.
 
 ## Links
 + [Github](https://github.com/QuintonCoetzee)
