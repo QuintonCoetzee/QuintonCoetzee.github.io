@@ -1,88 +1,59 @@
-<html lang="en">
-<head>
-		<title>Quinton Coetzee</title>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>portfolio</title>
 		<link rel="stylesheet" type="text/css" href="css/main.css">
-</head>
+	</head>
 
 
-  <nav>
-    <ul id="navbar">
-      <li><a href="#introduction" rel="internal">Introduction</a></li>
-      <li><a href="#interests" rel="internal">Interests</a></li>
-      <li><a href="#links" rel="internal">Links</a></li>
-    </ul>
-  </nav>
+    <nav>
+      <ul id="navbar">
+        <li><a href="#welcome-section" rel="internal">Here</a></li>
+        <li><a href="#projects" rel="internal">Projects</a></li>
+        <li><a href="#contact" rel="internal">Contact</a></li>
+      </ul>
+    </nav>
+  
 
 <body>
-<div id="introduction">
-  <h1 align="center">Introduction</h1>
+  <div id="welcome-section" >
+    <h1>Welcome to my world</h1>
+    <p>Gently hatching from the programming egg.</p>
+  </div>
 
-  I am a third year student, studying BIT at the University of Pretoria. I have an incredible passion for Computer Science as well as photography and I take great pride in the work that I do. I have an innate drive and apply myself fully to all the things that I do. I have also throughout my life developed good soft skills and I am a capable leader.
+<div id="projects" class="work">
+<h2 class="work-header">Here is what I have done</h2>
+  <a href="https://codepen.io/noethix/full/jvwbLw/" target="_blank" class="project project-tile">
+    <img class="project-pic" src="https://res.cloudinary.com/noethix/image/upload/v1537349719/porfolio/functional_design.jpg" alt="project">
+    <div class="project-title">Functional Design</div>
+  </a>
+
+  <a href="https://codepen.io/noethix/full/vzZEem/" target="_blank" class="project project-tile">
+    <img class="project-pic" src="https://res.cloudinary.com/noethix/image/upload/v1537349719/porfolio/trbute_page.jpg" alt="project">
+    <div class="project-title">Tribute Page</div>
+  </a>
+
+  <a href="https://codepen.io/noethix/full/gdRaoP/" target="_blank" class="project project-tile">
+    <img class="project-pic" src="https://res.cloudinary.com/noethix/image/upload/v1537349719/porfolio/questionnaire.jpg" alt="project">
+    <div class="project-title">Questionnaire</div>
+  </a>
+
+  <a href="https://codepen.io/noethix/full/rZwapB/" target="_blank" class="project project-tile">
+    <img class="project-pic" src="https://res.cloudinary.com/noethix/image/upload/v1537349719/porfolio/tech_page.jpg" alt="project">
+    <div class="project-title">Technical Documentation Page</div>
+  </a>
+
+  <a href="https://codepen.io/noethix/" class="show-all" target="_blank">Projects</a>
 </div>
-<h2 align="center">Links</h2>
 
-<div align="center">
-  <h5>
-    <a href="https://github.com/QuintonCoetzee">
-      GitHub
-    </a>
-    <span> | </span>
-    <a href="https://www.linkedin.com/in/quinton-coetzee-3656a01a3/">
-      LinkedIn
-    </a><span> | </span>
-    <a href="https://unsplash.com/@quinietjie">
-      Photography
-    </a>
-  </h5>
+  <div class="contact">
+  <div class="header">
+    <h1>Ways to get in touch</h1>
+    <p>or send me a message!</p>
+  </div>
+  <a id='profile-link' href="https://github.com/noethix" target="_blank" class="contact-details"><img src="https://res.cloudinary.com/noethix/image/upload/v1537359418/GitHub-Mark-64px.png"></a> 
+  <a href="mailto:cecilecampagne@gmail.com" class="contact-details" ><img src="https://res.cloudinary.com/noethix/image/upload/v1537202434/porfolio/email.png"></a>
+  <a href="tel:0033662290690" class="contact-details"><img src="https://res.cloudinary.com/noethix/image/upload/v1537360973/telephone.png"></a>
 </div>
-
-<h2 align="center">Interests</h2>
-<ol>
-<li> Software Engineering </li>
-<li> Photography </li> 
-<li> Graphic Design </li>
-<li> Nutrition and Health </li>
-</ol>
-
-<h2 align="center">Skills</h2>
-<ol>
-<li>Coding in most major languages and Frameworks
-  <ul>
-    <li>Java</li>
-    <li>C++</li>
-    <li>Javascript</li>
-    <li>Python</li>
-    <li>HTML and CSS</li>
-    <li>SQL</li>
-    <li>PHP</li>
-    <li>Flutter and Dart</li>
-    <li>Bootstrap</li>
-    <li>NodeJS</li>
-    <li>ReactJS</li>
-  </ul>
-</li>
-<li>Leadership</li>
-<li>Diplomacy</li>
-<li>Conflict Management</li>
-</ol>
-
-<h2 align="center">Education</h2>
-<ol>
-  <li>Matriculated (2017) - Hoërskool Garsfontein</li>
-  <li>B.IT - University of Pretoria (Set to graduate with Honors in 2021)</li>
-</ol>
-
-<h2 align="center">Work Experience</h2>
-<ol>
-  <li>Teaching Assistant COS110 - 2019</li>
-  <li>Tutor COS110 - 2020</li>
-</ol> 
-
-<h2 align="center">Accolades</h2>
-<ol>
-  <li>Member of the Golden Key Honour Society</li>
-  <li>Top achiever in B.IT for first year </li>
-</ol>
-  <script src="js/scripts.js"></script>
-</body>
+ </body>
 </html>
