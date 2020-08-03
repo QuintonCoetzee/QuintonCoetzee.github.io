@@ -1,9 +1,21 @@
-<h1 align="center">Introdcution</h1>
+<!doctype html>
 
-I am a third year student, studying BIT at the University of Pretoria. I have an incredible passion for Computer Science as well as photography and I take great pride in the work that I do. I have an innate drive and apply myself fully to all the work that I do. I have also throughout my life developed good soft skills and I am a capable leader.
+<html lang="en">
+<head>
+  <meta charset="utf-8">
 
+  <title>The HTML5 Herald</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
 
----
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body>
+  <h1 align="center">Introduction</h1>
+  I am a third year student, studying BIT at the University of Pretoria. I have an incredible passion for Computer Science as well as photography and I take great pride in the work that I do. I have an innate drive and apply myself fully to all the things that I do. I have also throughout my life developed good soft skills and I am a capable leader.
+  ---
 
 <h2 align="center">Links</h2>
 
@@ -23,37 +35,6 @@ I am a third year student, studying BIT at the University of Pretoria. I have an
 </div>
 
 ---
-
-## Interests
-1. Software Engineering
-2. Photography
-3. Graphic Design
-4. Nutrition and Health
-
-## Skills
-1. Coding in most major languages and Frameworks
-  + Java
-  + C++
-  + JavaScript
-  + Python
-  + HTML and CSS
-  + SQL
-  + PHP
-  + Dart
-  + Bootstrap
-  + NodeJS
-  + ReactJS
-2. Leadership
-3. Diplomacy
-4. Conflict Management
-
-## Education
-+ Matriculated (2017) - Hoërskool Garsfontein
-+ B.IT - University of Pretoria (Set to graduate with Honors in 2021)
-
-## Work Experience 
-+ Teaching Assistant COS110
-
-## Accolades
-+ Member of the Golden Key Honour Society
-+ Top achiever in B.IT for first year 
+  <script src="js/scripts.js"></script>
+</body>
+</html>
